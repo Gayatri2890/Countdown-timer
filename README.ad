@@ -1,0 +1,27 @@
+# Countdown Timer
+
+Welcome to the Countdown Timer app! This app allows you to set a countdown timer and perform various actions such as starting, stopping, resetting, and restarting the timer.
+
+## Features
+
+- Set a countdown timer from a specified time to zero.
+- Start the timer to begin counting down.
+- Stop the timer to pause the countdown.
+- Reset the timer to its initial state.
+- Receive an alert when the timer reaches zero.
+
+## Usage
+
+1. Open the `index.html` file in your web browser to access the countdown timer.
+2. Click the "Start" button to begin the countdown.
+3. Click the "Stop" button to pause the countdown at any time.
+4. Click the "Reset" button to reset the timer to its initial state.
+
+## Customization
+
+You can customize the countdown timer according to your needs by modifying the code in the HTML, CSS, and JavaScript files. You can change the initial countdown time, adjust the styling, or add new features as desired.
+
+
+## Contact
+
+For any inquiries or feedback, please contact [gayatrisatarupa24@gmail.com]
